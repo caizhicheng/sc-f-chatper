@@ -12,5 +12,4 @@ public class ScFChatperApplicationTests {
     @Test
     public void contextLoads() {
     }
-
 }
